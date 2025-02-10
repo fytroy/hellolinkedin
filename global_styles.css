@@ -1,0 +1,16 @@
+/* global_styles.css */
+body {
+  background-color: #001f3d; /* Dark blue */
+  color: white; /* Text color */
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+a {
+  color: #00aaff; /* Light blue for links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
